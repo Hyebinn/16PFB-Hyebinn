@@ -1,5 +1,5 @@
-people = 30
-cars = 40
+people = 20
+cars = 10
 trucks = 15
 
 
